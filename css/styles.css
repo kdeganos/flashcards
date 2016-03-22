@@ -1,0 +1,17 @@
+.definition {
+  display: none;
+}
+
+.disappear {
+  display: none;
+}
+
+.col-sm-4 {
+  border: solid black 4px;
+  text-align: center;
+  height: 100px;
+}
+
+.col-sm-4 p {
+  margin-top: 20px;
+}
